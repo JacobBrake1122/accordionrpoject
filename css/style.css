@@ -1,4 +1,11 @@
 body {
-    background: #540101;
-    background: linear-gradient(90deg,rgba(84, 1, 1, 1) 0%, rgba(222, 0, 0, 1) 50%, rgba(255, 0, 0, 1) 100%);
+background-image:url(https://www.wendys.com/sites/default/files/2022-02/Wendys-UK-Restaurant-Grand-Opening-Interior_760x428.jpeg);
+background-repeat:no-repeat;
+height:100%;
+background-size:cover;
+}
+.text1 {
+    text-align:center;
+    color:red;
+    text-decoration-line: underline;
 }
